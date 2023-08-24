@@ -61,6 +61,7 @@ def start():
 
                     if loc_error is not None:
                         pyautogui.press("esc")
+                        pyautogui.press("esc")
                         print("Erro na linha {}".format(i))
                     else:
                         print("Mensagem enviada para o número {}".format(df.loc[i, 'Telefone']))
@@ -74,7 +75,6 @@ def start():
 
 root = Tk()
 root.title("Robô Whatsapp")
-root.geometry("315x135")
 
 timeOption = StringVar()
 timeOption.set("Tempo")
