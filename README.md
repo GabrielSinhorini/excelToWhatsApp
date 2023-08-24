@@ -16,4 +16,4 @@
 
 <br>
 
-<p>Baixe a última versão <a href="https://github.com/GabrielSinhorini/excelToWhatsApp/releases/tag/v0.01-alpha">Aqui</a></p>
+<p>Baixe a última versão <a href="https://github.com/GabrielSinhorini/excelToWhatsApp/releases/tag/v0.2-alpha">Aqui</a></p>
